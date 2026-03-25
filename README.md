@@ -43,4 +43,4 @@ Press 'q' to quit the detection window.
 
 ## Model
 
-Make sure your `best.pt` model is compatible with Ultralytics YOLOv8 format.
+Make sure your `best.pt` model is compatible with Ultralytics YOLO26 format.
