@@ -33,7 +33,7 @@ For a complete learning experience, open `yolo_beer_detection_tutorial.ipynb` wh
 ## Usage
 
 Run the script and point your webcam at beer bottles, glasses, etc. The model will detect and highlight:
-- alchol-bottle
+- alcohol-bottle
 - beer-bottle
 - beer-glass
 - shot
